@@ -1,6 +1,6 @@
 # Kaggle Home Credit Competition
 
-Here is where you found this competition: www.kaggle.com/competitions/home-credit-default-risk/overview/description
+Here is where you can find this competition: www.kaggle.com/competitions/home-credit-default-risk/overview/description
 
 ## Description
 
